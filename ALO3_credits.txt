@@ -1,0 +1,10 @@
+Aérospatiale Alouette III
+https://en.wikipedia.org/wiki/Aérospatiale_Alouette_III
+
+Credits (FlightGear):
+Author(s)	
+Gerard Robin
+David
+Josh (FDM)
+Thorsten Renk
+http://wiki.flightgear.org/Alouette-III

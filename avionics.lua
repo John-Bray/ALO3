@@ -9,7 +9,7 @@ defineProperty("iPadVisibility",createGlobalPropertyi("jb/sasl/iPads/visible")) 
 set(iPadVisibility,  0) 
 
 defineProperty("HudHidden",createGlobalPropertyi("jb/sasl/Hud/hidden"))  -- 0=visible, 1= hidden (killed) (INT)
-set(HudHidden,  1) 
+set(HudHidden,  0) 
 
 createProp("jb/sasl/currentWaypointID", "int", 0);
 defineProperty("currentWaypointID",   globalPropertyi("jb/sasl/currentWaypointID"))

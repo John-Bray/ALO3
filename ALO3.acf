@@ -18193,8 +18193,8 @@ P _prop/0/_des_AOA_tip 0.0
 P _prop/0/_des_kts_acf 500.0
 P _prop/0/_des_rpm_prp 387.0
 P _prop/0/_max_AOA_deg 90.0
-P _prop/0/_max_pitch 9.0
-P _prop/0/_min_pitch 0.300000012
+P _prop/0/_max_pitch 8.0
+P _prop/0/_min_pitch -0.500000000
 P _prop/0/_num_blades 3.0
 P _prop/0/_prop_clutch_EQ 0
 P _prop/0/_prop_dir -1.0
@@ -18209,8 +18209,8 @@ P _prop/1/_des_AOA_tip 0.0
 P _prop/1/_des_kts_acf 0.0
 P _prop/1/_des_rpm_prp 4000.0
 P _prop/1/_max_AOA_deg 90.0
-P _prop/1/_max_pitch 20.0
-P _prop/1/_min_pitch -20.0
+P _prop/1/_max_pitch 15.0
+P _prop/1/_min_pitch -15.0
 P _prop/1/_num_blades 3.0
 P _prop/1/_prop_clutch_EQ 0
 P _prop/1/_prop_dir -1.0
@@ -21400,7 +21400,7 @@ P acf/_bouncer_spring_k/9,1 0.0
 P acf/_bouncer_spring_k/9,2 0.0
 P acf/_bouncer_spring_k/i_count 14
 P acf/_bouncer_spring_k/j_count 3
-P acf/_brake_co 0.750000000
+P acf/_brake_co 0.800000012
 P acf/_brake_to_steer_power 0.0
 P acf/_burner_inc 0.0
 P acf/_bus_bat_is_on/0 0
@@ -22729,8 +22729,8 @@ P acf/_fuel_2/0 0.0
 P acf/_fuel_2/1 0.0
 P acf/_fuel_2/2 0.0
 P acf/_fuel_2/count 3
-P acf/_fuel_intro_time_jet 10.0
-P acf/_fuel_intro_time_prop 2.0
+P acf/_fuel_intro_time_jet 11.0
+P acf/_fuel_intro_time_prop 99.989997864
 P acf/_gear_EQ 1
 P acf/_gear_can_ret_on_ground 0
 P acf/_gear_extend_protect 0
@@ -22965,7 +22965,7 @@ P acf/_max_vac 8.0
 P acf/_max_xmsn_P 0.0
 P acf/_max_xmsn_T 0.0
 P acf/_min_n1 10.0
-P acf/_min_n2 40.0
+P acf/_min_n2 49.0
 P acf/_min_rwy_len 0.0
 P acf/_min_vec_on_ground 0.0
 P acf/_mixt_x_ctr 0.0
@@ -22996,7 +22996,7 @@ P acf/_nom_bat_volt 24.0
 P acf/_nom_fuelP 30.0
 P acf/_nom_gen_volt 24.500000000
 P acf/_nom_oilP 115.0
-P acf/_notes 2019 Jun 30 B06
+P acf/_notes 2019 Jun 30 B07s
 P acf/_num_batteries 1
 P acf/_num_braking_wheels 0.0
 P acf/_num_buses 2
@@ -23205,7 +23205,7 @@ P acf/_rock_h_opt 0.0
 P acf/_rock_max_opt 0.0
 P acf/_rock_max_sl 0.0
 P acf/_rock_max_vac 0.0
-P acf/_roll_co 0.250000000
+P acf/_roll_co 0.349999994
 P acf/_roll_to_eng_spo1 0.0
 P acf/_roll_to_eng_spo2 0.0
 P acf/_rotor_mi_rat 0.349999994
@@ -23322,7 +23322,7 @@ P acf/_spoi2_with_flit_sbrk 0.0
 P acf/_spoi2_with_grnd_pitch 0.0
 P acf/_spoi2_with_grnd_sbrk 0.0
 P acf/_spool_time_compressor_jet 1.0
-P acf/_spool_time_compressor_prop 1.0
+P acf/_spool_time_compressor_prop 2.0
 P acf/_spot1_3d_rgb/0 1.0
 P acf/_spot1_3d_rgb/1 1.0
 P acf/_spot1_3d_rgb/2 1.0
@@ -23379,10 +23379,10 @@ P acf/_stall_warn_is_variable 0
 P acf/_start_on_water 0
 P acf/_starter_engages_fuel 1
 P acf/_starter_engages_igniter_arm 1
-P acf/_starter_engages_igniter_on 0
+P acf/_starter_engages_igniter_on 1
 P acf/_starter_engages_ignition 1
 P acf/_starter_is_air_driven 0
-P acf/_starter_max_rpm_rat 0.899999976
+P acf/_starter_max_rpm_rat 1.0
 P acf/_starter_torque_rat 0.059999999
 P acf/_stickshaker 0
 P acf/_studio Cortijo

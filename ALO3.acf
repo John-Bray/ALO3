@@ -412,9 +412,8 @@ P _obja/1/_v10_att_y_acf_prt_ref 0.0
 P _obja/1/_v10_att_z_acf_prt_ref 0.0
 P _obja/1/_v10_is_internal 268496912
 P _obja/1/_v10_steers_with_gear 0
-P _obja/10/_obj_flags 3
-P _obja/10/_obj_hide_dataref jb/sasl/Hud/hidden
-P _obja/10/_v10_att_file_stl FlightPathMarker.obj
+P _obja/10/_obj_flags 6
+P _obja/10/_v10_att_file_stl ALO3_perspex.obj
 P _obja/10/_v10_att_part -1
 P _obja/10/_v10_att_phi_ref 0.0
 P _obja/10/_v10_att_psi_ref 0.0
@@ -424,8 +423,9 @@ P _obja/10/_v10_att_y_acf_prt_ref 0.0
 P _obja/10/_v10_att_z_acf_prt_ref 0.0
 P _obja/10/_v10_is_internal 268496912
 P _obja/10/_v10_steers_with_gear 0
-P _obja/11/_obj_flags 2
-P _obja/11/_v10_att_file_stl ALO3_rotorHeadBlurred.obj
+P _obja/11/_obj_flags 3
+P _obja/11/_obj_hide_dataref jb/sasl/Hud/hidden
+P _obja/11/_v10_att_file_stl FlightPathMarker.obj
 P _obja/11/_v10_att_part -1
 P _obja/11/_v10_att_phi_ref 0.0
 P _obja/11/_v10_att_psi_ref 0.0
@@ -435,8 +435,8 @@ P _obja/11/_v10_att_y_acf_prt_ref 0.0
 P _obja/11/_v10_att_z_acf_prt_ref 0.0
 P _obja/11/_v10_is_internal 268496912
 P _obja/11/_v10_steers_with_gear 0
-P _obja/12/_obj_flags 0
-P _obja/12/_v10_att_file_stl ALO3_transparents.obj
+P _obja/12/_obj_flags 2
+P _obja/12/_v10_att_file_stl ALO3_rotorHeadBlurred.obj
 P _obja/12/_v10_att_part -1
 P _obja/12/_v10_att_phi_ref 0.0
 P _obja/12/_v10_att_psi_ref 0.0
@@ -447,7 +447,7 @@ P _obja/12/_v10_att_z_acf_prt_ref 0.0
 P _obja/12/_v10_is_internal 268496912
 P _obja/12/_v10_steers_with_gear 0
 P _obja/13/_obj_flags 0
-P _obja/13/_v10_att_file_stl ALO3_instruments/display_WK.obj
+P _obja/13/_v10_att_file_stl ALO3_transparents.obj
 P _obja/13/_v10_att_part -1
 P _obja/13/_v10_att_phi_ref 0.0
 P _obja/13/_v10_att_psi_ref 0.0
@@ -457,8 +457,19 @@ P _obja/13/_v10_att_y_acf_prt_ref 0.0
 P _obja/13/_v10_att_z_acf_prt_ref 0.0
 P _obja/13/_v10_is_internal 268496912
 P _obja/13/_v10_steers_with_gear 0
+P _obja/14/_obj_flags 0
+P _obja/14/_v10_att_file_stl ALO3_instruments/display_WK.obj
+P _obja/14/_v10_att_part -1
+P _obja/14/_v10_att_phi_ref 0.0
+P _obja/14/_v10_att_psi_ref 0.0
+P _obja/14/_v10_att_the_ref 0.0
+P _obja/14/_v10_att_x_acf_prt_ref 0.0
+P _obja/14/_v10_att_y_acf_prt_ref 0.0
+P _obja/14/_v10_att_z_acf_prt_ref 0.0
+P _obja/14/_v10_is_internal 268496912
+P _obja/14/_v10_steers_with_gear 0
 P _obja/2/_obj_flags 0
-P _obja/2/_v10_att_file_stl ALO3_console.obj
+P _obja/2/_v10_att_file_stl ALO3_cabinFloor.obj
 P _obja/2/_v10_att_part -1
 P _obja/2/_v10_att_phi_ref 0.0
 P _obja/2/_v10_att_psi_ref 0.0
@@ -469,7 +480,7 @@ P _obja/2/_v10_att_z_acf_prt_ref 0.0
 P _obja/2/_v10_is_internal 268496912
 P _obja/2/_v10_steers_with_gear 0
 P _obja/3/_obj_flags 0
-P _obja/3/_v10_att_file_stl ALO3_blades.obj
+P _obja/3/_v10_att_file_stl ALO3_console.obj
 P _obja/3/_v10_att_part -1
 P _obja/3/_v10_att_phi_ref 0.0
 P _obja/3/_v10_att_psi_ref 0.0
@@ -480,7 +491,7 @@ P _obja/3/_v10_att_z_acf_prt_ref 0.0
 P _obja/3/_v10_is_internal 268496912
 P _obja/3/_v10_steers_with_gear 0
 P _obja/4/_obj_flags 0
-P _obja/4/_v10_att_file_stl ALO3_engine.obj
+P _obja/4/_v10_att_file_stl ALO3_blades.obj
 P _obja/4/_v10_att_part -1
 P _obja/4/_v10_att_phi_ref 0.0
 P _obja/4/_v10_att_psi_ref 0.0
@@ -491,7 +502,7 @@ P _obja/4/_v10_att_z_acf_prt_ref 0.0
 P _obja/4/_v10_is_internal 268496912
 P _obja/4/_v10_steers_with_gear 0
 P _obja/5/_obj_flags 0
-P _obja/5/_v10_att_file_stl ALO3_controls.obj
+P _obja/5/_v10_att_file_stl ALO3_engine.obj
 P _obja/5/_v10_att_part -1
 P _obja/5/_v10_att_phi_ref 0.0
 P _obja/5/_v10_att_psi_ref 0.0
@@ -501,8 +512,8 @@ P _obja/5/_v10_att_y_acf_prt_ref 0.0
 P _obja/5/_v10_att_z_acf_prt_ref 0.0
 P _obja/5/_v10_is_internal 268496912
 P _obja/5/_v10_steers_with_gear 0
-P _obja/6/_obj_flags 4096
-P _obja/6/_v10_att_file_stl ALO3_panel_EXT.obj
+P _obja/6/_obj_flags 0
+P _obja/6/_v10_att_file_stl ALO3_controls.obj
 P _obja/6/_v10_att_part -1
 P _obja/6/_v10_att_phi_ref 0.0
 P _obja/6/_v10_att_psi_ref 0.0
@@ -523,8 +534,8 @@ P _obja/7/_v10_att_y_acf_prt_ref 0.0
 P _obja/7/_v10_att_z_acf_prt_ref 0.0
 P _obja/7/_v10_is_internal 268496912
 P _obja/7/_v10_steers_with_gear 0
-P _obja/8/_obj_flags 2053
-P _obja/8/_v10_att_file_stl ALO3_panel.obj
+P _obja/8/_obj_flags 4096
+P _obja/8/_v10_att_file_stl ALO3_panel_EXT.obj
 P _obja/8/_v10_att_part -1
 P _obja/8/_v10_att_phi_ref 0.0
 P _obja/8/_v10_att_psi_ref 0.0
@@ -534,8 +545,8 @@ P _obja/8/_v10_att_y_acf_prt_ref 0.0
 P _obja/8/_v10_att_z_acf_prt_ref 0.0
 P _obja/8/_v10_is_internal 268496912
 P _obja/8/_v10_steers_with_gear 0
-P _obja/9/_obj_flags 6
-P _obja/9/_v10_att_file_stl ALO3_perspex.obj
+P _obja/9/_obj_flags 2053
+P _obja/9/_v10_att_file_stl ALO3_panel.obj
 P _obja/9/_v10_att_part -1
 P _obja/9/_v10_att_phi_ref 0.0
 P _obja/9/_v10_att_psi_ref 0.0
@@ -545,7 +556,7 @@ P _obja/9/_v10_att_y_acf_prt_ref 0.0
 P _obja/9/_v10_att_z_acf_prt_ref 0.0
 P _obja/9/_v10_is_internal 268496912
 P _obja/9/_v10_steers_with_gear 0
-P _obja/count 14
+P _obja/count 15
 P _panel_inst_3d 0
 P _part/0/_bot_s1 0.0
 P _part/0/_bot_s2 0.015625000
@@ -22985,7 +22996,7 @@ P acf/_nom_bat_volt 24.0
 P acf/_nom_fuelP 30.0
 P acf/_nom_gen_volt 24.500000000
 P acf/_nom_oilP 115.0
-P acf/_notes 2019 Jun 29 B05
+P acf/_notes 2019 Jun 30 B06
 P acf/_num_batteries 1
 P acf/_num_braking_wheels 0.0
 P acf/_num_buses 2
@@ -23064,9 +23075,9 @@ P acf/_part_descrip/92 Nosegear axle truck
 P acf/_part_descrip/93 Nosegear steering link arm2
 P acf/_part_descrip/94 Nosegear axle truck
 P acf/_part_descrip/count 95
-P acf/_pe_xyz/0 1.574803114
-P acf/_pe_xyz/1 2.034120798
-P acf/_pe_xyz/2 -5.643044472
+P acf/_pe_xyz/0 1.902887106
+P acf/_pe_xyz/1 2.460629940
+P acf/_pe_xyz/2 -4.593175888
 P acf/_pe_xyz/count 3
 P acf/_phase_hdng_tvect_in_at_00 0
 P acf/_phase_hdng_tvect_in_at_90 0

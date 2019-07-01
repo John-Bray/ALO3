@@ -125,7 +125,7 @@ P _gear/0/_axiE 0.0
 P _gear/0/_axiN 0.0
 P _gear/0/_axiR 0.0
 P _gear/0/_cyc_time 1.0
-P _gear/0/_damp 588.726013184
+P _gear/0/_damp 697.715209961
 P _gear/0/_eagle_claw_deg 10.0
 P _gear/0/_gear_brakes 1
 P _gear/0/_gear_can_retract 0
@@ -144,7 +144,7 @@ P _gear/0/_leg_len 2.296587944
 P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
-P _gear/0/_scon 9909.978515625
+P _gear/0/_scon 12712.044921875
 P _gear/0/_stat_def 0.127473444
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
@@ -160,7 +160,7 @@ P _gear/2/_axiE 0.0
 P _gear/2/_axiN 0.0
 P _gear/2/_axiR 0.0
 P _gear/2/_cyc_time 1.0
-P _gear/2/_damp 588.726013184
+P _gear/2/_damp 697.715209961
 P _gear/2/_eagle_claw_deg 0.0
 P _gear/2/_gear_brakes 1
 P _gear/2/_gear_can_retract 0
@@ -179,8 +179,8 @@ P _gear/2/_leg_len 2.296587944
 P _gear/2/_lonE -10.0
 P _gear/2/_lonN -10.0
 P _gear/2/_lonR 0.0
-P _gear/2/_scon 9909.978515625
-P _gear/2/_stat_def 0.127024904
+P _gear/2/_scon 12712.044921875
+P _gear/2/_stat_def 0.127024889
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -194,7 +194,7 @@ P _gear/3/_axiE 0.0
 P _gear/3/_axiN 0.0
 P _gear/3/_axiR 0.0
 P _gear/3/_cyc_time 1.0
-P _gear/3/_damp 588.726013184
+P _gear/3/_damp 697.715209961
 P _gear/3/_eagle_claw_deg 0.0
 P _gear/3/_gear_brakes 1
 P _gear/3/_gear_can_retract 0
@@ -213,8 +213,8 @@ P _gear/3/_leg_len 2.296587944
 P _gear/3/_lonE -10.0
 P _gear/3/_lonN -10.0
 P _gear/3/_lonR 0.0
-P _gear/3/_scon 9909.978515625
-P _gear/3/_stat_def 0.127024904
+P _gear/3/_scon 12712.044921875
+P _gear/3/_stat_def 0.127024889
 P _gear/3/_steerdeg_hispeed 0.0
 P _gear/3/_steerdeg_lospeed 0.0
 P _gear/3/_strut_comp 0.0
@@ -228,7 +228,7 @@ P _gear/4/_axiE 0.0
 P _gear/4/_axiN 0.0
 P _gear/4/_axiR 0.0
 P _gear/4/_cyc_time 0.100000001
-P _gear/4/_damp 147.181503296
+P _gear/4/_damp 174.428802490
 P _gear/4/_eagle_claw_deg 0.0
 P _gear/4/_gear_brakes 0
 P _gear/4/_gear_can_retract 0
@@ -247,7 +247,7 @@ P _gear/4/_leg_len 1.640419960
 P _gear/4/_lonE -30.0
 P _gear/4/_lonN -30.0
 P _gear/4/_lonR 90.0
-P _gear/4/_scon 9909.978515625
+P _gear/4/_scon 12712.044921875
 P _gear/4/_stat_def 0.0
 P _gear/4/_steerdeg_hispeed 0.0
 P _gear/4/_steerdeg_lospeed 0.0
@@ -262,7 +262,7 @@ P _gear/5/_axiE 0.0
 P _gear/5/_axiN 0.0
 P _gear/5/_axiR 0.0
 P _gear/5/_cyc_time 0.100000001
-P _gear/5/_damp 98.120994568
+P _gear/5/_damp 116.285858154
 P _gear/5/_eagle_claw_deg 0.0
 P _gear/5/_gear_brakes 0
 P _gear/5/_gear_can_retract 0
@@ -281,7 +281,7 @@ P _gear/5/_leg_len 1.640419960
 P _gear/5/_lonE 50.0
 P _gear/5/_lonN 50.0
 P _gear/5/_lonR 90.0
-P _gear/5/_scon 9909.978515625
+P _gear/5/_scon 12712.044921875
 P _gear/5/_stat_def 0.0
 P _gear/5/_steerdeg_hispeed 0.0
 P _gear/5/_steerdeg_lospeed 0.0
@@ -22931,10 +22931,10 @@ P acf/_lock_n2 0.0
 P acf/_lock_with_elev_EQ 0
 P acf/_m_displaced 0.0
 P acf/_m_displaced_Y 0.0
-P acf/_m_empty 2184.780517578
-P acf/_m_fuel_max_tot 661.386596680
+P acf/_m_empty 2466.994140625
+P acf/_m_fuel_max_tot 1010.995544434
 P acf/_m_jett 1102.311035156
-P acf/_m_max 3780.926757812
+P acf/_m_max 4849.991699219
 P acf/_m_shift 0.0
 P acf/_m_shift_dx 0.0
 P acf/_m_shift_dz 0.0
@@ -22996,7 +22996,7 @@ P acf/_nom_bat_volt 24.0
 P acf/_nom_fuelP 30.0
 P acf/_nom_gen_volt 24.500000000
 P acf/_nom_oilP 115.0
-P acf/_notes 2019 Jul 01 B08
+P acf/_notes 2019 Jul 01 B09
 P acf/_num_batteries 1
 P acf/_num_braking_wheels 0.0
 P acf/_num_buses 2
@@ -23016,18 +23016,18 @@ P acf/_ott_atr_Ki 1.500000000
 P acf/_ott_atr_Kp 0.449999988
 P acf/_ott_flare_begin 15.0
 P acf/_ott_flare_end 5.0
-P acf/_ott_gls_sec_into_future 8.067205429
-P acf/_ott_phi_deg_off_for_full_def 19.931943893
-P acf/_ott_phi_sec_into_future 0.310208499
+P acf/_ott_gls_sec_into_future 8.085906029
+P acf/_ott_phi_deg_off_for_full_def 19.912700653
+P acf/_ott_phi_sec_into_future 0.313094974
 P acf/_ott_phi_sec_to_tune 4.0
 P acf/_ott_psi_deg_off_for_full_def 15.0
 P acf/_ott_psi_sec_into_future 0.750000000
 P acf/_ott_psi_sec_to_tune 15.0
 P acf/_ott_roll_rate 8.0
-P acf/_ott_roll_response 4.067487240
-P acf/_ott_the_deg_off_for_full_def 39.863887787
+P acf/_ott_roll_response 4.086367607
+P acf/_ott_the_deg_off_for_full_def 39.825401306
 P acf/_ott_the_deg_per_kt 0.200000003
-P acf/_ott_the_sec_into_future 0.310208499
+P acf/_ott_the_sec_into_future 0.313094974
 P acf/_ott_the_sec_to_tune 4.0
 P acf/_otto_ah_source_type 10
 P acf/_otto_dg_source_type 10

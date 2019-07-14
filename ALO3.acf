@@ -145,7 +145,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 0.0
 P _gear/0/_scon 12712.044921875
-P _gear/0/_stat_def 0.127473459
+P _gear/0/_stat_def 0.127473444
 P _gear/0/_steerdeg_hispeed 0.0
 P _gear/0/_steerdeg_lospeed 0.0
 P _gear/0/_strut_comp 0.0
@@ -21421,7 +21421,7 @@ P acf/_bus_gen_is_on/7 0
 P acf/_bus_gen_is_on/count 8
 P acf/_buses_always_tied 0
 P acf/_bypass_ratio 0.0
-P acf/_callsign JOHNB
+P acf/_callsign ALO3
 P acf/_camera_fov_zoom 60.0
 P acf/_camera_offset_phi 0.0
 P acf/_camera_offset_psi 0.0
@@ -22985,7 +22985,7 @@ P acf/_nom_bat_volt 24.0
 P acf/_nom_fuelP 30.0
 P acf/_nom_gen_volt 24.500000000
 P acf/_nom_oilP 115.0
-P acf/_notes 2019 Jul 07 B11
+P acf/_notes 2019 Jul 14 B12
 P acf/_num_batteries 1
 P acf/_num_braking_wheels 0.0
 P acf/_num_buses 2
@@ -23279,10 +23279,10 @@ P acf/_slat_ret2_time 5.0
 P acf/_slat_with_Vind 0.0
 P acf/_slat_with_stall_EQ 0
 P acf/_slung_len 32.808399200
-P acf/_snd_N1 90.0
-P acf/_snd_kias 150.0
+P acf/_snd_N1 100.0
+P acf/_snd_kias 120.0
 P acf/_snd_rpm_eng 2500.0
-P acf/_snd_rpm_prp 400.0
+P acf/_snd_rpm_prp 353.0
 P acf/_solar_cover_part 0.0
 P acf/_solar_eta 0.0
 P acf/_speedbrake_ext_time 1.0
@@ -23390,7 +23390,7 @@ P acf/_tail_rot_with_v1_kts 0.0
 P acf/_tail_rot_with_v2_deg 0.0
 P acf/_tail_rot_with_v2_kts 0.0
 P acf/_tail_with_coll 0.0
-P acf/_tailnum JOHNB
+P acf/_tailnum ALO3
 P acf/_tailrotor_EQ 1
 P acf/_takeoff_trim_11 0.0
 P acf/_tank_part_en/0 0

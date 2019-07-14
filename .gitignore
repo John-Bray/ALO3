@@ -2,6 +2,6 @@
 # ignore macos files,
 *.DS_Store
 Icon?
-*.ac
 *.bak
 *.psd
+*.ac

@@ -1,10 +1,7 @@
 Aérospatiale Alouette III
 https://en.wikipedia.org/wiki/Aérospatiale_Alouette_III
 
-Credits (FlightGear):
-Author(s)	
-Gerard Robin
-David
-Josh (FDM)
-Thorsten Renk
+Credits:  Braddock, brett s, Daikan, David, friwo2, Gerard Robin, John Bray, Josh, Pedri Miguel Calderia, Rosscopeeko, Sérgio Costa, Thorsten Renk, Timi Hietanen
+
+
 http://wiki.flightgear.org/Alouette-III

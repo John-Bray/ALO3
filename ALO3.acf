@@ -119,7 +119,7 @@ P _engn/0/_exhaust_os_xyz/0 -0.600000024
 P _engn/0/_exhaust_os_xyz/1 7.199999809
 P _engn/0/_exhaust_os_xyz/2 4.0
 P _engn/0/_exhaust_os_xyz/count 3
-P _engn/0/_type TRB_FRE
+P _engn/0/_type TRB_FIX_n12
 P _engn/count 8
 P _gear/0/_axiE 0.0
 P _gear/0/_axiN 0.0
@@ -446,17 +446,6 @@ P _obja/12/_v10_att_y_acf_prt_ref 0.0
 P _obja/12/_v10_att_z_acf_prt_ref 0.0
 P _obja/12/_v10_is_internal 268496912
 P _obja/12/_v10_steers_with_gear 0
-P _obja/13/_obj_flags 8
-P _obja/13/_v10_att_file_stl ALO3_instruments/display_WK.obj
-P _obja/13/_v10_att_part -1
-P _obja/13/_v10_att_phi_ref 0.0
-P _obja/13/_v10_att_psi_ref 0.0
-P _obja/13/_v10_att_the_ref 0.0
-P _obja/13/_v10_att_x_acf_prt_ref 0.0
-P _obja/13/_v10_att_y_acf_prt_ref 0.0
-P _obja/13/_v10_att_z_acf_prt_ref 0.0
-P _obja/13/_v10_is_internal 268496912
-P _obja/13/_v10_steers_with_gear 0
 P _obja/2/_obj_flags 0
 P _obja/2/_v10_att_file_stl ALO3_cabinFloor.obj
 P _obja/2/_v10_att_part -1
@@ -524,7 +513,7 @@ P _obja/7/_v10_att_z_acf_prt_ref 0.0
 P _obja/7/_v10_is_internal 268496912
 P _obja/7/_v10_steers_with_gear 0
 P _obja/8/_obj_flags 2061
-P _obja/8/_v10_att_file_stl ALO3_panel.obj
+P _obja/8/_v10_att_file_stl ALO3_cockpit_INT.obj
 P _obja/8/_v10_att_part -1
 P _obja/8/_v10_att_phi_ref 0.0
 P _obja/8/_v10_att_psi_ref 0.0
@@ -545,7 +534,7 @@ P _obja/9/_v10_att_y_acf_prt_ref 0.0
 P _obja/9/_v10_att_z_acf_prt_ref 0.0
 P _obja/9/_v10_is_internal 268496912
 P _obja/9/_v10_steers_with_gear 0
-P _obja/count 14
+P _obja/count 13
 P _panel_inst_3d 0
 P _part/0/_bot_s1 0.0
 P _part/0/_bot_s2 0.015625000
@@ -22825,7 +22814,7 @@ P acf/_has_get_tow 0
 P acf/_has_get_tow_new 0
 P acf/_has_give_tow 0
 P acf/_has_ground_pwr 0
-P acf/_has_hsi 1
+P acf/_has_hsi 0
 P acf/_has_litemap_tex_1 0
 P acf/_has_litemap_tex_2 0
 P acf/_has_pre_rotate 0
@@ -22985,7 +22974,7 @@ P acf/_nom_bat_volt 24.0
 P acf/_nom_fuelP 30.0
 P acf/_nom_gen_volt 24.500000000
 P acf/_nom_oilP 115.0
-P acf/_notes 2019 Jul 14 B12
+P acf/_notes 2019 Jul 21 1_0
 P acf/_num_batteries 1
 P acf/_num_braking_wheels 0.0
 P acf/_num_buses 2
@@ -23845,7 +23834,7 @@ but_starter_HM but_starter_HM.png
   KEY_FRAME 1.000000 1.000000
 
 but_fuel_off_any but_fuel_01.png
-  POS 640.000000 563.428589
+  POS 557.000000 258.428589
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
@@ -23885,76 +23874,8 @@ han_thrott_lin han_thro_linear.png
   KEY_FRAME 0.000000 0.000000 1.000000
   KEY_FRAME 1.000000 1.000000
 
-ins_slip_inverted slip_inverted.png
-  POS 893.000000 197.000000
-  DATAREF 
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-asi_preset_GA_200 asi_preset_GA_200.p
-  POS 949.000000 670.142883
-  DATAREF 
-  SIZE 0.900000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-alt_GA alt_GA.png
-  POS 538.714294 670.285706
-  DATAREF 
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-horiz_elec_flag_adj horizon_GA_elec_fla
-  POS 817.142822 663.428589
-  DATAREF 
-  SIZE 0.800000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-ins_HSI_1_GA HSI_1_GA.png
-  POS 543.857117 489.142853
-  DATAREF 
-  SIZE 0.900000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-ins_slip_GA slip_GA.png
-  POS 710.714294 391.000000
-  DATAREF 
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-vvi2k_GA VVI_2000_GA.png
-  POS 676.000000 669.571411
-  DATAREF 
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
-eng_rnd_PRP engine_RPM_prop.png
-  POS 711.000000 489.428589
-  DATAREF 
-  SIZE 1.600000
-  LIGHT_MODE MECHANICAL
-  LIGHT_RHEOSTAT 0
-  KEY_FRAME 0.000000 0.000000 1.000000
-  KEY_FRAME 1.000000 1.000000
-
 but_brakes but_brakes.png
-  POS 545.857117 394.214294
+  POS 641.000000 -56.500000
   DATAREF 
   SIZE 2.000000
   LIGHT_MODE MECHANICAL
